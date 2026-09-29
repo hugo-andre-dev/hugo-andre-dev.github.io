@@ -1,10 +1,10 @@
 # Privacy policy
 
-Last updated: 28 September 2026
+Last updated: 29 September 2026
 
 ## Who we are
 
-Rivet is published on every platform by Hugo André de Oliveira Campos: as an individual on the App Store and Google AdMob, and as a sole trader (empresário em nome individual) on Google Play and Steam. He is responsible for the data described here ("we"). Contact: [hugo.campos@orangetribe.pt](mailto:hugo.campos@orangetribe.pt).
+Rivet is published on every platform by Hugo André de Oliveira Campos: as an individual on the App Store, Google Play, Steam and Google AdMob. He is responsible for the data described here ("we"). Contact: [hugo.campos@orangetribe.pt](mailto:hugo.campos@orangetribe.pt).
 
 ## In short
 
