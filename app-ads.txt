@@ -1,1 +1,1 @@
-# The AdMob line is added here once the AdMob account exists (RVT-32).
+google.com, pub-9478991399221049, DIRECT, f08c47fec0942fa0
